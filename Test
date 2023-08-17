@@ -1,1 +1,3 @@
 $\sqrt{3x-1}+(1+x)^2$
+$\pi$
+$ pandoc How_I_got_svg-resizer_working_on_Mac_OSX.md -s -o Test.pdf
